@@ -1,0 +1,58 @@
+[
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Blackhaven",
+        "image": "https://pbs.twimg.com/media/G_2PL1vbUAMknTZ?format=jpg&name=small",
+        "link": "https://early.blackhaven.xyz/ref/TestnetProtocol"
+    },
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Kaio",
+        "image": "https://media.kaio.xyz/kash_motion_animation.mp4",
+        "link": "https://waitlist.kaio.xyz/"
+    },
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Chance",
+        "image": "https://cdn.chance.live/videos/chance-intro.mp4",
+        "link": "https://chance.live?referralCode=9hhy1it"
+    },
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "GUM",
+        "image": "https://pbs.twimg.com/media/HAFuQNSakAATVdh?format=jpg&name=small",
+        "link": "https://gum.jup.net/waitlist"
+    },
+    {
+        "verified": "yes",
+        "name": "AIX Pay",
+        "image": "https://pbs.twimg.com/media/G_RW1lTbIAA1LlG?format=jpg&name=small",
+        "link": "https://www.aixpay.co/waitlist"
+    },
+    {
+        "hot": "yes",
+        "name": "Fluxor",
+        "image": "https://pbs.twimg.com/media/G_ISawZX0AAaVmB?format=jpg&name=small",
+        "link": "https://www.fluxor.finance/"
+    },
+    {
+        "name": "Avvio Wallet",
+        "image": "https://pbs.twimg.com/card_img/2017181968367329280/gE9btVUc?format=jpg&name=small",
+        "link": "https://www.avvio.xyz/waitlist"
+    },
+    {
+        "name": "Nuva Finance",
+        "image": "https://pbs.twimg.com/card_img/2014578905357942789/G5i-x6CK?format=png&name=small",
+        "link": "https://nuva.finance/"
+    },
+    {
+        "hot": "yes",
+        "name": "Tessium",
+        "image": "https://pbs.twimg.com/media/G_R3e-cWEAA90D8?format=jpg&name=small",
+        "link": "https://waitlist.tessium.io"
+    }
+]

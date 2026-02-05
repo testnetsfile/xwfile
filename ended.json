@@ -1,0 +1,164 @@
+[
+    {
+        "verified": "yes",
+        "name": "ZetaChain",
+        "image": "./testnet_files/images/zeta.png",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Aark",
+        "image": "./testnet_files/images/aark.png",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Blast",
+        "image": "./testnet_files/images/blast.png",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Dmail",
+        "image": "./testnet_files/images/dmail.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Eigen",
+        "image": "./testnet_files/images/eigen.png",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Ethena",
+        "image": "./testnet_files/images/ethena.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "EtherFi",
+        "image": "./testnet_files/images/etherfi.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "ISME",
+        "image": "./testnet_files/images/isme.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "SpaceID",
+        "image": "./testnet_files/images/spaceid.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Yuliverse",
+        "image": "./testnet_files/images/yuliverse.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "zkLink",
+        "image": "./testnet_files/images/zklink.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Dop",
+        "image": "./testnet_files/images/dop.png",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Jupiter",
+        "image": "./testnet_files/images/jupiter.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Kinza Finance",
+        "image": "./testnet_files/images/kinza.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Lava",
+        "image": "./testnet_files/images/lava.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Layer0",
+        "image": "./testnet_files/images/layer0.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Mavia",
+        "image": "./testnet_files/images/mavia.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "MemeLand",
+        "image": "./testnet_files/images/memeland.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "ONDO",
+        "image": "./testnet_files/images/ondo.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "OpenFabric",
+        "image": "./testnet_files/images/openfabric.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Owlto",
+        "image": "./testnet_files/images/owlto.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Polyhydra",
+        "image": "./testnet_files/images/polyhydra.png",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Port3",
+        "image": "./testnet_files/images/port3.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Puffer",
+        "image": "./testnet_files/images/puffer.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Qna3.AI",
+        "image": "./testnet_files/images/qna3ai.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "Rarible",
+        "image": "./testnet_files/images/rarible.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
+        "name": "SmartLayer",
+        "image": "./testnet_files/images/smartlayer.jpeg",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    }
+]

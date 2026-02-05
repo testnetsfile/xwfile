@@ -1,0 +1,80 @@
+[
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Konnex World",
+        "image": "./testnet_files/videos/konnex.mp4",
+        "link": "https://hub.konnex.world/points?referral_code=D3J0PZ70"
+    },
+{
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Nexira AI",
+        "image": "https://pbs.twimg.com/media/HASGe_pbQAABkPG?format=jpg&name=small",
+        "link": "https://www.nexira.ai/airdrops?refid=amZZ2uqN"
+    },
+{
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Huddle Pad",
+        "image": "https://pbs.twimg.com/media/G_7dRqWbsAAS0-7?format=png&name=small",
+        "link": "https://testnet.huddle01.com/r/0x83a6a79ebd8c5094a68b162d8b6ff16b96badbf2"
+    },
+ {
+ 
+        "verified": "yes",
+        "name": "Voyage",
+        "image": "https://pbs.twimg.com/media/G3YfUboasAAEFdu?format=png&name=small",
+        "link": "https://app.onvoyage.ai/?ref=v_1176817"
+    },
+    {
+        "name": "Moonclave",
+        "image": "./testnet_files/videos/moonclave.mp4",
+        "link": "https://rewards.moonclave.fun/loyalty?referral_code=XVOTPTWF"
+    },
+ 
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Shade Network",
+        "image": "./testnet_files/images/shade.png",
+        "link": "https://v1.shadenetwork.io/ref/xssi"
+    },
+    {
+        "name": "Smasher",
+        "image": "./testnet_files/images/smasher.png",
+        "link": "https://smasher.fun/"
+    },
+    {
+        "hot": "yes",
+        "name": "Shred Fi",
+        "image": "./testnet_files/images/shred.png",
+        "link": "https://waitlist.shred.fi/"
+    },
+    {
+        "name": "Nuva Finance",
+        "image": "./testnet_files/images/nuva.png",
+        "link": "https://nuva.finance/"
+    },
+    {
+        "name": "Solana Funded",
+        "image": "./testnet_files/images/solanafunded.png",
+        "link": "https://waitlist.solanafunded.com"
+    },
+    {
+        "hot": "yes",
+        "name": "Perle",
+        "image": "https://pbs.twimg.com/media/G_6_3GmWYAAji-1?format=jpg&name=small",
+        "link": "https://app.perle.xyz/"
+    },
+    {
+        "name": "CodeCraft",
+        "image": "./testnet_files/images/codecraft.png",
+        "link": "https://hub.codecraft.io/community"
+    },
+    {
+        "name": "Skale Loyalty",
+        "image": "https://pbs.twimg.com/card_img/2016645014861074434/k1kb-cKc?format=jpg&name=small",
+        "link": "https://loyalty.skale.space/loyalty?referral_code=J8DQQ3GK"
+    }
+]
