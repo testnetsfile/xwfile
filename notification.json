@@ -1,0 +1,12 @@
+{
+  "_comment": "Used only when Pastebin notification not found or fails",
+  "notification": true,
+  "image": true,
+  "button": true,
+  "title": "xClude mining",
+  "message": "Professional Crypto Cloud Mining Solutions. <br> Mine cryptocurrency efficiently with our state-of-the-art cloud mining infrastructure",
+  "media": "testnet_files/images/testnetimg.lottie",
+  "buttonText": "Join mining program",
+  "ctaUrl": "./mining/"
+}
+
