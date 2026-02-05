@@ -2,79 +2,57 @@
     {
         "hot": "yes",
         "verified": "yes",
-        "name": "Konnex World",
-        "image": "./testnet_files/videos/konnex.mp4",
-        "link": "https://hub.konnex.world/points?referral_code=D3J0PZ70"
-    },
-{
-        "hot": "yes",
-        "verified": "yes",
-        "name": "Nexira AI",
-        "image": "https://pbs.twimg.com/media/HASGe_pbQAABkPG?format=jpg&name=small",
-        "link": "https://www.nexira.ai/airdrops?refid=amZZ2uqN"
-    },
-{
-        "hot": "yes",
-        "verified": "yes",
-        "name": "Huddle Pad",
-        "image": "https://pbs.twimg.com/media/G_7dRqWbsAAS0-7?format=png&name=small",
-        "link": "https://testnet.huddle01.com/r/0x83a6a79ebd8c5094a68b162d8b6ff16b96badbf2"
-    },
- {
- 
-        "verified": "yes",
-        "name": "Voyage",
-        "image": "https://pbs.twimg.com/media/G3YfUboasAAEFdu?format=png&name=small",
-        "link": "https://app.onvoyage.ai/?ref=v_1176817"
-    },
-    {
-        "name": "Moonclave",
-        "image": "./testnet_files/videos/moonclave.mp4",
-        "link": "https://rewards.moonclave.fun/loyalty?referral_code=XVOTPTWF"
-    },
- 
-    {
-        "hot": "yes",
-        "verified": "yes",
-        "name": "Shade Network",
-        "image": "./testnet_files/images/shade.png",
-        "link": "https://v1.shadenetwork.io/ref/xssi"
-    },
-    {
-        "name": "Smasher",
-        "image": "./testnet_files/images/smasher.png",
-        "link": "https://smasher.fun/"
+        "name": "Blackhaven",
+        "image": "https://pbs.twimg.com/media/G_2PL1vbUAMknTZ?format=jpg&name=small",
+        "link": "https://early.blackhaven.xyz/ref/TestnetProtocol"
     },
     {
         "hot": "yes",
-        "name": "Shred Fi",
-        "image": "./testnet_files/images/shred.png",
-        "link": "https://waitlist.shred.fi/"
+        "verified": "yes",
+        "name": "Kaio",
+        "image": "https://media.kaio.xyz/kash_motion_animation.mp4",
+        "link": "https://waitlist.kaio.xyz/"
+    },
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Chance",
+        "image": "https://cdn.chance.live/videos/chance-intro.mp4",
+        "link": "https://chance.live?referralCode=9hhy1it"
+    },
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "GUM",
+        "image": "https://pbs.twimg.com/media/HAFuQNSakAATVdh?format=jpg&name=small",
+        "link": "https://gum.jup.net/waitlist"
+    },
+    {
+        "verified": "yes",
+        "name": "AIX Pay",
+        "image": "https://pbs.twimg.com/media/G_RW1lTbIAA1LlG?format=jpg&name=small",
+        "link": "https://www.aixpay.co/waitlist"
+    },
+    {
+        "hot": "yes",
+        "name": "Fluxor",
+        "image": "https://pbs.twimg.com/media/G_ISawZX0AAaVmB?format=jpg&name=small",
+        "link": "https://www.fluxor.finance/"
+    },
+    {
+        "name": "Avvio Wallet",
+        "image": "https://pbs.twimg.com/card_img/2017181968367329280/gE9btVUc?format=jpg&name=small",
+        "link": "https://www.avvio.xyz/waitlist"
     },
     {
         "name": "Nuva Finance",
-        "image": "./testnet_files/images/nuva.png",
+        "image": "https://pbs.twimg.com/card_img/2014578905357942789/G5i-x6CK?format=png&name=small",
         "link": "https://nuva.finance/"
     },
     {
-        "name": "Solana Funded",
-        "image": "./testnet_files/images/solanafunded.png",
-        "link": "https://waitlist.solanafunded.com"
-    },
-    {
         "hot": "yes",
-        "name": "Perle",
-        "image": "https://pbs.twimg.com/media/G_6_3GmWYAAji-1?format=jpg&name=small",
-        "link": "https://app.perle.xyz/"
-    },
-    {
-        "name": "CodeCraft",
-        "image": "./testnet_files/images/codecraft.png",
-        "link": "https://hub.codecraft.io/community"
-    },
-    {
-        "name": "Skale Loyalty",
-        "image": "https://pbs.twimg.com/card_img/2016645014861074434/k1kb-cKc?format=jpg&name=small",
-        "link": "https://loyalty.skale.space/loyalty?referral_code=J8DQQ3GK"
+        "name": "Tessium",
+        "image": "https://pbs.twimg.com/media/G_R3e-cWEAA90D8?format=jpg&name=small",
+        "link": "https://waitlist.tessium.io"
     }
 ]
