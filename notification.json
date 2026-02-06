@@ -1,6 +1,6 @@
 {
   "_comment": "Used only when Pastebin notification not found or fails",
-  "notification": true,
+  "notification": false,
   "image": true,
   "button": true,
   "title": "xClude mining",
