@@ -13,6 +13,12 @@
         "image": "https://pbs.twimg.com/media/HASGe_pbQAABkPG?format=jpg&name=small",
         "link": "https://www.nexira.ai/airdrops?refid=amZZ2uqN"
     },
+      { "hot": "yes",
+        "verified": "yes",
+        "name": "Skale Loyalty",
+        "image": "https://pbs.twimg.com/card_img/2016645014861074434/k1kb-cKc?format=jpg&name=small",
+        "link": "https://loyalty.skale.space/loyalty?referral_code=J8DQQ3GK"
+    },
 {
         "hot": "yes",
         "verified": "yes",
@@ -71,10 +77,6 @@
         "name": "CodeCraft",
         "image": "https://pbs.twimg.com/media/G_qe5E_WEAA01h6?format=jpg&name=small",
         "link": "https://hub.codecraft.io/community"
-    },
-    {
-        "name": "Skale Loyalty",
-        "image": "https://pbs.twimg.com/card_img/2016645014861074434/k1kb-cKc?format=jpg&name=small",
-        "link": "https://loyalty.skale.space/loyalty?referral_code=J8DQQ3GK"
     }
+  
 ]
