@@ -20,6 +20,18 @@
         "image": "https://cdn.chance.live/videos/chance-intro.mp4",
         "link": "https://chance.live?referralCode=9hhy1it"
     },
+     {
+        "hot": "yes",
+        "name": "MoonRush",
+        "image": "https://pbs.twimg.com/media/HAUYdayaUAAC0Gv?format=jpg&name=small",
+        "link": "https://moonrush.space/waitlist/3E05F0E4"
+    },
+     {
+        "hot": "yes",
+        "name": "Qognet",
+        "image": "https://pbs.twimg.com/media/HAKJWFxXsAAKr0O?format=jpg&name=small",
+        "link": "https://hub.qognet.ai/?ref=QOG-J1M8HY"
+    },
     {
         "hot": "yes",
         "verified": "yes",
@@ -56,3 +68,4 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
