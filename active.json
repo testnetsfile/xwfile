@@ -13,11 +13,26 @@
         "image": "https://pbs.twimg.com/media/HASGe_pbQAABkPG?format=jpg&name=small",
         "link": "https://www.nexira.ai/airdrops?refid=amZZ2uqN"
     },
+
+     {
+ 
+        "verified": "yes",
+        "name": "AllScale",
+        "image": "https://pbs.twimg.com/card_img/2018257857947262976/tp-LF_x1?format=jpg&name=small",
+        "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGsOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cyZUg=="
+    },
       { "hot": "yes",
         "verified": "yes",
         "name": "Skale Loyalty",
         "image": "https://pbs.twimg.com/card_img/2016645014861074434/k1kb-cKc?format=jpg&name=small",
         "link": "https://loyalty.skale.space/loyalty?referral_code=J8DQQ3GK"
+    },
+    {
+ 
+        "verified": "yes",
+        "name": "Sumex",
+        "image": "https://pbs.twimg.com/media/HAUQC9BW0AE1wcs?format=jpg&name=small",
+        "link": "https://app.sumex.io/?ref=5252310a"
     },
 {
         "hot": "yes",
@@ -45,6 +60,13 @@
         "name": "Shade Network",
         "image": "https://pbs.twimg.com/media/G9WlcMtXwAAZt7h?format=jpg&name=small",
         "link": "https://v1.shadenetwork.io/ref/xssi"
+    },
+     {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Shelby Net",
+        "image": "https://pbs.twimg.com/card_img/2018388375565377536/XdurX_Pt?format=jpg&name=small",
+        "link": "https://explorer.shelby.xyz/shelbynet"
     },
     {
         "name": "Smasher",
