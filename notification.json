@@ -1,12 +1,11 @@
 {
   "_comment": "Used only when Pastebin notification not found or fails",
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
-  "title": "xClude mining",
-  "message": "Professional Crypto Cloud Mining Solutions. <br> Mine cryptocurrency efficiently with our state-of-the-art cloud mining infrastructure",
-  "media": "testnet_files/images/testnetimg.lottie",
-  "buttonText": "Join mining program",
-  "ctaUrl": "./mining/"
+  "title": "Nexira Season 2 – Final Days Alert!",
+  "message": "Season 2 rewards are 3X higher with NO vesting! Participation is closing soon to prepare for Reward Box Unlocks. <br>Complete all tasks NOW – only until February 11, 2026 left before it's too late!",
+  "media": "https://cdn.nexira.ai/landing/public/images/airdrops/detail/ss2.webp",
+  "buttonText": "Join & Complete Tasks Now",
+  "ctaUrl": "https://www.nexira.ai/airdrops?refid=amZZ2uqN"
 }
-
