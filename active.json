@@ -6,6 +6,13 @@
         "image": "./testnet_files/videos/konnex.mp4",
         "link": "https://hub.konnex.world/points?referral_code=D3J0PZ70"
     },
+       {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Eldora",
+        "image": "https://substackcdn.com/image/fetch/$s_!L_08!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1b0f855-47fa-4f72-835e-c294e3a28e07_889x853.png",
+        "link": "https://app.eldora.do/r/11a651d0"
+    },
 
     {
         "hot": "yes",
