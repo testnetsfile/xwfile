@@ -1,4 +1,10 @@
-[
+[  {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "AI Agents",
+        "image": "https://pbs.twimg.com/media/HAr06mNXsAAnYVU?format=jpg&name=small",
+        "link": "https://ai.com/claim-handle"
+    },
     {
         "hot": "yes",
         "verified": "yes",
@@ -87,3 +93,4 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
