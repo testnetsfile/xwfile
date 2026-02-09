@@ -6,6 +6,14 @@
         "image": "./testnet_files/videos/konnex.mp4",
         "link": "https://hub.konnex.world/points?referral_code=D3J0PZ70"
     },
+
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Twin3 AI",
+        "image": "https://pbs.twimg.com/media/HAoFQUibUAAv8nW?format=jpg&name=small",
+        "link": "https://api.twin3.ai/invite/human17663"
+    },
 {
         "hot": "yes",
         "verified": "yes",
@@ -21,6 +29,12 @@
         "image": "https://pbs.twimg.com/card_img/2018257857947262976/tp-LF_x1?format=jpg&name=small",
         "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGsOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cyZUg=="
     },
+    { "hot": "yes",
+    "verified": "yes",
+    "name": "Watch.Fun",
+    "image": "https://pbs.twimg.com/media/G_ROe4gXkAAO1Ti?format=jpg&name=small",
+    "link": "https://quests.watch.fun/quests?referral_code=A8DDE2WR"
+},
       { "hot": "yes",
         "verified": "yes",
         "name": "Skale Loyalty",
