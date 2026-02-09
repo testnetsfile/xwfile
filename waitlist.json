@@ -40,10 +40,29 @@
         "link": "https://gum.jup.net/waitlist"
     },
     {
+        "hot": "yes",
+        "name": "Strium",
+        "image": "https://pbs.twimg.com/card_img/2019432417614798848/EDdarfTS?format=jpg&name=small",
+        "link": "https://strium.org/sign-up"
+    },
+    {
         "verified": "yes",
         "name": "AIX Pay",
         "image": "https://pbs.twimg.com/media/G_RW1lTbIAA1LlG?format=jpg&name=small",
         "link": "https://www.aixpay.co/waitlist"
+    },
+    {
+       
+        "verified": "yes",
+        "name": "Sileon",
+        "image": "https://pbs.twimg.com/media/G71zFvvXAAAjR_Z?format=jpg&name=small",
+        "link": "https://www.sileon.net"
+    },
+
+    {
+        "name": "Clona",
+        "image": "https://pbs.twimg.com/card_img/2019867231090364416/QPHjL7wF?format=jpg&name=small",
+        "link": "https://waitlist.clona.trade/waitlist"
     },
     {
         "hot": "yes",
@@ -68,4 +87,3 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
-
