@@ -1,6 +1,13 @@
 [  {
         "hot": "yes",
         "verified": "yes",
+        "name": "Sorin",
+        "image": "https://pbs.twimg.com/media/G_7NqxVbEAQlanD?format=jpg&name=small",
+        "link": "https://heysorin.ai/?referralCode=SIN320"
+    },
+        {
+        "hot": "yes",
+        "verified": "yes",
         "name": "AI Agents",
         "image": "https://pbs.twimg.com/media/HAr06mNXsAAnYVU?format=jpg&name=small",
         "link": "https://ai.com/claim-handle"
@@ -101,5 +108,6 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
