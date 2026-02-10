@@ -1,6 +1,6 @@
 {
   "_comment": "Used only when x notification not found or fails",
-  "notification": true,
+  "notification": false,
   "image": true,
   "button": true,
   "title": "OneFootball Club",
