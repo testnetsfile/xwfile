@@ -1,11 +1,11 @@
 {
-  "_comment": "Used only when x notification not found or fails",
+  "_comment": "Used only when Pastebin notification not found or fails",
   "notification": true,
   "image": true,
   "button": true,
-  "title": "OneFootball Club",
-  "message": "Check and claim your OneFootball Club Rewards now! <br> Reward availability is limited, so make sure to verify your eligibility and collect your rewards before time runs out!",
-  "media": "https://pbs.twimg.com/media/GwpFHE1aUAADESA?format=jpg&name=small",
-  "buttonText": "Check & Claim $OFC",
-  "ctaUrl": "/testnet.html"
+  "title": "Nexira Testnet Alert",
+  "message": "⏳ Only 1 DAY LEFT! Nexira Airdrop Season 2 closes on Feb 11 at 23:59 EST. <br>If you haven’t joined or completed your tasks yet, this is your LAST chance to claim rewards. Don’t miss out — join and earn before it’s gone!",
+  "media": "https://pbs.twimg.com/media/HAzZlmVaAAIf_x0?format=jpg&name=small",
+  "buttonText": "Check Now",
+  "ctaUrl": "./testnet/"
 }
