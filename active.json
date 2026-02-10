@@ -1,4 +1,25 @@
-[
+[ 
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Soul Labs",
+        "image": "https://pbs.twimg.com/media/G215EwXXcAAJZyy?format=jpg&name=small",
+        "link": "https://app.soul.io/?referredBy=XVAAR"
+    }, 
+    {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Zetarium",
+        "image": "https://pbs.twimg.com/media/G-dxjmBWcAAoE6D?format=jpg&name=small",
+        "link": "https://airdrop.zetarium.world/?ref=c023f2ee"
+    },
+     {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "idOS",
+        "image": "https://pbs.twimg.com/media/G_R3RWRXQAADS5M?format=png&name=small",
+        "link": "https://app.idos.network?ref=5D1C4328"
+    },
     {
         "hot": "yes",
         "verified": "yes",
