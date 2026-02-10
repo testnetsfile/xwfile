@@ -3,9 +3,9 @@
   "notification": true,
   "image": true,
   "button": true,
-  "title": "Nexira Season 2 – Final Days Alert!",
-  "message": "Season 2 rewards are 3X higher with NO vesting! Participation is closing soon to prepare for Reward Box Unlocks. <br>Complete all tasks NOW – only until February 11, 2026 left before it's too late!",
-  "media": "https://cdn.nexira.ai/landing/public/images/airdrops/detail/ss2.webp",
-  "buttonText": "Join & Complete Tasks Now",
-  "ctaUrl": "https://www.nexira.ai/airdrops?refid=amZZ2uqN"
+  "title": "OneFootball Club",
+ "message": "Check and claim your OneFootball Club Rewards now! ⚽🎁 <br>Reward availability is limited, so make sure to verify your eligibility and collect your rewards before time runs out!"
+  "media": "https://pbs.twimg.com/media/GwpFHE1aUAADESA?format=jpg&name=small",
+  "buttonText": "Check & Claim $OFC",
+   "ctaUrl": "./testnet/"
 }
