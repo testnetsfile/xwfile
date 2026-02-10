@@ -1,5 +1,5 @@
 {
-  "_comment": "Used only when Pastebin notification not found or fails",
+  "_comment": "Used only when x notification not found or fails",
   "notification": true,
   "image": false,
   "button": true,
