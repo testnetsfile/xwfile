@@ -1,7 +1,7 @@
 {
   "_comment": "Used only when x notification not found or fails",
   "notification": true,
-  "image": false,
+  "image": true,
   "button": true,
   "title": "OneFootball Club",
   "message": "Check and claim your OneFootball Club Rewards now! <br> Reward availability is limited, so make sure to verify your eligibility and collect your rewards before time runs out!",
