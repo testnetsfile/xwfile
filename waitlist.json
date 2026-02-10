@@ -12,6 +12,14 @@
         "image": "https://pbs.twimg.com/media/G_2PL1vbUAMknTZ?format=jpg&name=small",
         "link": "https://early.blackhaven.xyz/ref/TestnetProtocol"
     },
+        {
+        
+        "verified": "yes",
+        "name": "Zoth",
+        "image": "https://zoth.io/images/hero/hero.mp4",
+        "link": "https://zoth.io/"
+    },
+        
     {
         "hot": "yes",
         "verified": "yes",
@@ -93,4 +101,5 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
