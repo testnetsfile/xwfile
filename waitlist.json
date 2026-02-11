@@ -1,9 +1,16 @@
-[     {
+[      {
         
         "verified": "yes",
         "name": "Penxchain",
         "image": "https://pbs.twimg.com/card_img/2021170774443237376/Qdla41bZ?format=jpg&name=small",
         "link": "https://penxchain.org/wallet-waitlist/signup?ref=PNX-K5PA3K"
+    },
+        {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Fair Shares",
+        "image": "https://pbs.twimg.com/media/HAzTuCXa8AAEHlv?format=jpg&name=small",
+        "link": "https://app.fairshares.io/waitlist?AccessCode=lgneijaw"
     },
         {
         "hot": "yes",
@@ -115,6 +122,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
