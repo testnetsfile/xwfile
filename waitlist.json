@@ -8,6 +8,15 @@
         "form": ["mail", "address", "refer"]
     },
         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "EAT",
+        "image": "https://pbs.twimg.com/media/HA-a7EXWQAAFowM?format=jpg&name=small",
+        "link": "https://eat.ong?ref=pure-wave-132q",
+        "points_increase": true,
+        "form": ["mail", "address", "refer"]
+    },
+        {
         "verified": "yes",
         "name": "miniminds",
         "image": "https://pbs.twimg.com/media/HA55sy2WgAArHXx?format=png&name=small",
@@ -138,6 +147,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
