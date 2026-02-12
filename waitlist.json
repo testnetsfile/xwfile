@@ -1,9 +1,20 @@
-[      {
+[       {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Kast",
+        "image": "https://pbs.twimg.com/media/HA7y1QIb0AAwpjc?format=jpg&name=small",
+        "link": "https://www.kast.xyz/pudgy-penguins?r=R9wyi",
+        "points_increase": true,
+        "form": ["mail", "address", "refer"]
+    },
+        {
         
         "verified": "yes",
         "name": "Penxchain",
         "image": "https://pbs.twimg.com/card_img/2021170774443237376/Qdla41bZ?format=jpg&name=small",
-        "link": "https://penxchain.org/wallet-waitlist/signup?ref=PNX-K5PA3K"
+        "link": "https://penxchain.org/wallet-waitlist/signup?ref=PNX-K5PA3K",
+        "points_increase": true,
+        "form": ["mail", "address", "refer"]
     },
         {
         "hot": "yes",
@@ -122,6 +133,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
