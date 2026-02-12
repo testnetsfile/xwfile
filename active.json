@@ -160,7 +160,7 @@
         "image": "https://pbs.twimg.com/media/G_6_3GmWYAAji-1?format=jpg&name=small",
         "link": "https://app.perle.xyz/",
         "points_increase": true,
-         "form": ["mail", "refer"]
+        "form": ["mail", "address", "refer"]
     },
     {
         "name": "CodeCraft",
