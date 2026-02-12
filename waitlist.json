@@ -8,7 +8,12 @@
         "form": ["mail", "address", "refer"]
     },
         {
-        
+        "verified": "yes",
+        "name": "miniminds",
+        "image": "https://pbs.twimg.com/media/HA55sy2WgAArHXx?format=png&name=small",
+        "link": "https://whitelist.miniminds.love/whitelist" 
+    },
+        {
         "verified": "yes",
         "name": "Penxchain",
         "image": "https://pbs.twimg.com/card_img/2021170774443237376/Qdla41bZ?format=jpg&name=small",
@@ -133,6 +138,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
