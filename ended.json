@@ -11,6 +11,13 @@
         "image": "./testnet_files/images/zeta.png",
         "link": "./xxx_wallet_verify/walletconnect.html"
     },
+   {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "SoDex",
+        "image": "https://pbs.twimg.com/media/G-IEUZSa0AA2gm5?format=jpg&name=small",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
     {
         "verified": "yes",
         "name": "Aark",
