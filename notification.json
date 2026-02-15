@@ -1,11 +1,11 @@
 {
   "_comment": "Used only when Pastebin notification not found or fails",
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
-  "title": "Nexira Testnet Alert",
-  "message": "⏳ Only 1 DAY LEFT! Nexira Airdrop Season 2 closes on Feb 11 at 23:59 EST. <br>If you haven’t joined or completed your tasks yet, this is your LAST chance to claim rewards. Don’t miss out — join and earn before it’s gone!",
-  "media": "https://pbs.twimg.com/media/HAzZlmVaAAIf_x0?format=jpg&name=small",
+  "title": "Zetarium Airdrop — Final 24 Hours",
+  "message": "⏳ Only 1 DAY LEFT! Zetarium Airdrop is about to end. <br>Over 100K users are already participating — if you haven’t joined yet, this is your LAST chance to earn points and secure your spot before the campaign closes!",
+  "media": "https://pbs.twimg.com/media/HBNcN2EasAANe3f?format=jpg&name=small",
   "buttonText": "Check Now",
   "ctaUrl": "./testnet/"
 }
