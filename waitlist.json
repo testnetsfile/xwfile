@@ -7,6 +7,14 @@
         "points_increase": true,
         "form": ["mail", "address", "refer"]
     },
+         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "AGI",
+        "image": "https://www.agi.app/videos/banner-video.mp4",
+        "link": "https://www.agi.app/?ref=xss"
+        
+    },
         {
         "hot": "yes",
         "verified": "yes",
@@ -147,6 +155,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
