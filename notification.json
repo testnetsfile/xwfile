@@ -1,11 +1,11 @@
 {
   "_comment": "Used only when Pastebin notification not found or fails",
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
-  "title": "Zetarium Airdrop — Final 24 Hours",
-  "message": "⏳ Only 1 DAY LEFT! Zetarium Airdrop is about to end. <br>Over 100K users are already participating — if you haven’t joined yet, this is your LAST chance to earn points and secure your spot before the campaign closes!",
-  "media": "https://pbs.twimg.com/media/HBNcN2EasAANe3f?format=jpg&name=small",
-  "buttonText": "Check Now",
+  "title": "Linera Update — Quests Now Live",
+  "message": "🚀 Linera quests are now available! <br>Complete challenges, accumulate points, and unlock rewards. Users must finish quests to be eligible — start completing tasks now and don’t miss out on future rewards!",
+  "media": "https://pbs.twimg.com/media/HBWUsGAbcAMj3GJ?format=jpg&name=small",
+  "buttonText": "Start Quests",
   "ctaUrl": "./testnet/"
 }
