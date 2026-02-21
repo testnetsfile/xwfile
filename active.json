@@ -23,6 +23,13 @@
       {
         "hot": "yes",
         "verified": "yes",
+        "name": "AllScale",
+        "image": "https://app.allscale.io/assets/login_image-gt5rChyy.png",
+        "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGsOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cyZUg=="
+    },
+      {
+        "hot": "yes",
+        "verified": "yes",
         "name": "MWX Token",
         "image": "https://pbs.twimg.com/card_img/2022762777845346304/_CD5CGMl?format=jpg&name=small",
         "link": "https://community.mwxtoken.ai/loyalty?referral_code=YSGWCCXS"
@@ -126,14 +133,6 @@
         "link": "https://api.twin3.ai/invite/human17663"
     },
 
-
-     {
- 
-        "verified": "yes",
-        "name": "AllScale",
-        "image": "https://pbs.twimg.com/card_img/2018257857947262976/tp-LF_x1?format=jpg&name=small",
-        "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGsOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cyZUg=="
-    },
     { "hot": "yes",
     "verified": "yes",
     "name": "Watch.Fun",
