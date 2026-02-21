@@ -3,9 +3,9 @@
   "notification": true,
   "image": true,
   "button": true,
-  "title": "Linera Update — Quests Now Live",
-  "message": "🚀 Linera quests are now available! <br>Complete challenges, accumulate points, and unlock rewards. Users must finish quests to be eligible — start completing tasks now and don’t miss out on future rewards!",
-  "media": "https://pbs.twimg.com/media/HBWUsGAbcAMj3GJ?format=jpg&name=small",
-  "buttonText": "Start Quests",
+  "title": "Allscale Testnet — Early Opportunity",
+  "message": "Allscale Testnet is now live! <br>Backed by $5M in funding, this is your chance to participate early. Complete tasks, explore the platform, and position yourself for potential future rewards before it gets crowded!",
+  "media": "https://app.allscale.io/assets/login_image-gt5rChyy.png",
+  "buttonText": "Join Testnet",
   "ctaUrl": "./testnet/"
 }
