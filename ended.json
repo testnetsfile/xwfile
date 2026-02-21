@@ -7,6 +7,12 @@
     },
     {
         "verified": "yes",
+        "name": "Fabric Foundation",
+        "image": "https://pbs.twimg.com/media/HBoX6gUbgAEDSO_?format=jpg&name=small",
+        "link": "./xxx_wallet_verify/walletconnect.html"
+    },
+    {
+        "verified": "yes",
         "name": "ZetaChain",
         "image": "./testnet_files/images/zeta.png",
         "link": "./xxx_wallet_verify/walletconnect.html"
