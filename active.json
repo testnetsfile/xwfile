@@ -27,6 +27,13 @@
         "image": "https://app.allscale.io/assets/login_image-gt5rChyy.png",
         "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGsOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cyZUg=="
     },
+         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Mega ETH",
+        "image": "https://pbs.twimg.com/card_img/2023443401811927040/hOPpsNQR?format=jpg&name=small",
+        "link": "https://testnet.megaeth.com"
+    },
       {
         "hot": "yes",
         "verified": "yes",
