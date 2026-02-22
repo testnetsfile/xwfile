@@ -1,11 +1,11 @@
 [
-   {
+   {   "claim": "yes",
         "verified": "yes",
         "name": "Onefootball",
         "image": "https://pbs.twimg.com/media/GwpFHE1aUAADESA?format=jpg&name=small",
         "link": "./xxx_wallet_verify/walletconnect.html"
     },
-    {
+    {   "claim": "yes",
         "verified": "yes",
         "name": "Fabric Foundation",
         "image": "https://pbs.twimg.com/media/HBoX6gUbgAEDSO_?format=jpg&name=small",
@@ -18,7 +18,7 @@
         "link": "./xxx_wallet_verify/walletconnect.html"
     },
    {
-        "hot": "yes",
+        "claim": "yes",
         "verified": "yes",
         "name": "SoDex",
         "image": "https://pbs.twimg.com/media/G-IEUZSa0AA2gm5?format=jpg&name=small",
