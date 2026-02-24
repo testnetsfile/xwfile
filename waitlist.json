@@ -15,6 +15,14 @@
         "link": "https://www.agi.app/?ref=xss"
         
     },
+          {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "PlutonAI",
+        "image": "https://pbs.twimg.com/media/HBWrWUIagAA04ls?format=jpg&name=small",
+        "link": "https://www.plutonai.net/waitlist"
+        
+    },
            {
         "name": "AFK FUN",
         "image": "https://pbs.twimg.com/profile_banners/1835694038093058048/1766160683/600x200",
@@ -162,6 +170,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
