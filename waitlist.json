@@ -7,6 +7,14 @@
         "points_increase": true,
         "form": ["mail", "address", "refer"]
     },
+           {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "SSV Network",
+        "image": "https://pbs.twimg.com/media/HCB14EQXkAA4jlS?format=jpg&name=small",
+        "link": "https://ssv.network/cssv/alpha-campaign"
+        
+    },
          {
         "hot": "yes",
         "verified": "yes",
@@ -178,6 +186,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
