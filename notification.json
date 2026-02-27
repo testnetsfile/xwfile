@@ -1,11 +1,11 @@
 {
   "_comment": "Used only when Pastebin notification not found or fails",
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
-  "title": "Allscale Testnet — Early Opportunity",
-  "message": "Allscale Testnet is now live! <br>Backed by $5M in funding, this is your chance to participate early. Complete tasks, explore the platform, and position yourself for potential future rewards before it gets crowded!",
-  "media": "https://app.allscale.io/assets/login_image-gt5rChyy.png",
-  "buttonText": "Join Testnet",
+  "title": "Zetarium Listed on CoinGecko",
+  "message": "Zetarium is now officially listed on CoinGecko! <br>The community is growing fast and this is the perfect time to join. Participate in tasks, earn points, and secure your position early before the campaign progresses further.",
+  "media": "https://pbs.twimg.com/media/HCHJURqbQAAn5BA?format=jpg&name=small",
+  "buttonText": "Join Zetarium",
   "ctaUrl": "./testnet/"
 }
