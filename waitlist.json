@@ -15,6 +15,14 @@
         "link": "https://ssv.network/cssv/alpha-campaign"
         
     },
+            {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Amigo",
+        "image": "https://pbs.twimg.com/profile_banners/1895512023280353281/1750287052/600x200",
+        "link": "https://amigo.cool/waitlist"
+        
+    },
          {
         "hot": "yes",
         "verified": "yes",
@@ -186,6 +194,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
