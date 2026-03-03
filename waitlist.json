@@ -7,6 +7,14 @@
         "points_increase": true,
         "form": ["mail", "address", "refer"]
     },
+            {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "SKELLIE",
+        "image": "https://pbs.twimg.com/media/HCbh7ZxW8AA2dZb?format=jpg&name=small",
+        "link": "https://skellie.art/"
+        
+    },
            {
         "hot": "yes",
         "verified": "yes",
@@ -194,6 +202,7 @@
         "link": "https://waitlist.tessium.io"
     }
 ]
+
 
 
 
