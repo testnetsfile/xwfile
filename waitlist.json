@@ -7,6 +7,15 @@
         "points_increase": true,
         "form": ["mail", "address", "refer"]
     },
+         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Zerg App",
+        "image": "https://pbs.twimg.com/media/HCbBKmDacAAkV0f?format=jpg&name=small",
+        "link": "https://welcome.zerg.app/referral/7S4B7RWFT1",
+        "points_increase": true,
+        "form": ["mail", "address", "refer"]
+    },
             {
         "hot": "yes",
         "verified": "yes",
@@ -203,6 +212,7 @@
         
     }
 ]
+
 
 
 
