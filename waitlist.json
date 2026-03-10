@@ -7,6 +7,14 @@
         "points_increase": true,
         "form": ["mail", "address", "refer"]
     },
+              {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Yucky Ducks",
+        "image": "https://pbs.twimg.com/media/HC-lr4XXIAAtNqv?format=jpg&name=small",
+        "link": "https://yuckyducks.com/"
+        
+    },
          {
         "hot": "yes",
         "verified": "yes",
@@ -212,6 +220,7 @@
         
     }
 ]
+
 
 
 
