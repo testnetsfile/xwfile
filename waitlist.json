@@ -1,12 +1,4 @@
-[       {
-        "hot": "yes",
-        "verified": "yes",
-        "name": "Kast",
-        "image": "https://pbs.twimg.com/media/HA7y1QIb0AAwpjc?format=jpg&name=small",
-        "link": "https://www.kast.xyz/pudgy-penguins?r=R9wyi",
-        "points_increase": true,
-        "form": ["mail", "address", "refer"]
-    },
+[      
          {
         "hot": "yes",
         "verified": "yes",
@@ -44,6 +36,15 @@
         "image": "https://pbs.twimg.com/media/HCbh7ZxW8AA2dZb?format=jpg&name=small",
         "link": "https://skellie.art/"
         
+    },
+         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Kast",
+        "image": "https://pbs.twimg.com/media/HA7y1QIb0AAwpjc?format=jpg&name=small",
+        "link": "https://www.kast.xyz/pudgy-penguins?r=R9wyi",
+        "points_increase": true,
+        "form": ["mail", "address", "refer"]
     },
            {
         "hot": "yes",
@@ -233,6 +234,7 @@
         
     }
 ]
+
 
 
 
