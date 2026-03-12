@@ -14,6 +14,13 @@
         "image": "https://pbs.twimg.com/card_img/2031481775730429952/2cXuN5Sz?format=png&name=small",
         "link": "https://www.noise.xyz/?ref=FHQ69SMB"
     },
+         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Xstocks",
+        "image": "https://pbs.twimg.com/media/HDDt2WSWgAEkgJs?format=jpg&name=small",
+        "link": "https://defi.xstocks.fi/points?ref=B3KNFYZQ"
+    },
               {
         "hot": "yes",
         "verified": "yes",
@@ -226,6 +233,7 @@
         
     }
 ]
+
 
 
 
