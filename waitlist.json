@@ -7,13 +7,19 @@
         "points_increase": true,
         "form": ["mail", "address", "refer"]
     },
+         {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Noise",
+        "image": "https://pbs.twimg.com/card_img/2031481775730429952/2cXuN5Sz?format=png&name=small",
+        "link": "https://www.noise.xyz/?ref=FHQ69SMB"
+    },
               {
         "hot": "yes",
         "verified": "yes",
         "name": "Yucky Ducks",
         "image": "https://pbs.twimg.com/media/HC-lr4XXIAAtNqv?format=jpg&name=small",
         "link": "https://yuckyducks.com/"
-        
     },
          {
         "hot": "yes",
@@ -220,6 +226,7 @@
         
     }
 ]
+
 
 
 
