@@ -263,14 +263,7 @@
         "image": "https://pbs.twimg.com/media/G_M2fL1XYBMDbn8?format=jpg&name=small",
         "link": "https://waitlist.solanafunded.com"
     },
-    {   
-        "hot": "yes",
-        "name": "Perle",
-        "image": "https://pbs.twimg.com/media/G_6_3GmWYAAji-1?format=jpg&name=small",
-        "link": "https://app.perle.xyz/",
-        "points_increase": true,
-        "form": ["mail", "address", "refer"]
-    },
+   
     {
         "name": "CodeCraft",
         "image": "https://pbs.twimg.com/media/G_qe5E_WEAA01h6?format=jpg&name=small",
