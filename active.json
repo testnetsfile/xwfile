@@ -8,7 +8,13 @@
   "points_increase": true,
   "form": ["mail", "address", "refer"]
 },
-     
+      {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Perceptron",
+        "image": "https://pbs.twimg.com/profile_banners/1880853313488609280/1750331716/600x200",
+        "link": "https://quests.perceptrons.xyz/loyalty?referral_code=REWVRVP3"
+    },
        {
         "hot": "yes",
         "verified": "yes",
