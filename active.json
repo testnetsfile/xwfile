@@ -9,6 +9,27 @@
     {
         "hot": "yes",
         "verified": "yes",
+        "name": "DAC Inception",
+        "image": "https://pbs.twimg.com/media/HGCYi5sbUAAvJWK?format=jpg&name=small",
+        "link": "https://inception.dachain.io/?ref=DAC14659"
+    },
+     {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "Linera Markets",
+        "image": "https://pbs.twimg.com/card_img/2024195293286477825/Gxp4nhFZ?format=jpg&name=small",
+        "link": "https://portal.linera.net?referralCode=bold-diamond-3080"
+    },
+      {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "AllScale",
+        "image": "https://app.allscale.io/assets/login_image-gt5rChyy.png",
+        "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGdOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cxZUg=="
+    },
+    {
+        "hot": "yes",
+        "verified": "yes",
         "name": "Verse 8",
         "image": "https://pbs.twimg.com/profile_banners/1689881443118563328/1751600557/600x200",
         "link": "https://verse8.io/explore?referral=JJ6BNM"
@@ -78,13 +99,7 @@
         "image": "https://pbs.twimg.com/profile_banners/1307651508524126208/1771399815/600x200",
         "link": "https://predictions.blinq.fi/?ref=00000"
     },
-      {
-        "hot": "yes",
-        "verified": "yes",
-        "name": "Linera Markets",
-        "image": "https://pbs.twimg.com/card_img/2024195293286477825/Gxp4nhFZ?format=jpg&name=small",
-        "link": "https://portal.linera.net?referralCode=bold-diamond-3080"
-    },
+     
 
        {
         "hot": "yes",
@@ -121,13 +136,7 @@
         "link": "https://sphere.unicity.network"
     },
 
-      {
-        "hot": "yes",
-        "verified": "yes",
-        "name": "AllScale",
-        "image": "https://app.allscale.io/assets/login_image-gt5rChyy.png",
-        "link": "https://app.allscale.io/pay/register?code=tIvYFSfU1UEPAiVsh3HAYTGdOs2VdunH07owYNarkM4sVbVs8u_ThobenzRFGGYl_cxZUg=="
-    },
+    
       {
         "hot": "yes",
         "verified": "yes",
