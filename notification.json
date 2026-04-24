@@ -1,5 +1,5 @@
 {
-  "_comment": "Used only when Pastebin notification not found or fails",
+  "id": 1,
   "notification": false,
   "image": true,
   "button": true,
@@ -8,4 +8,15 @@
   "media": "https://pbs.twimg.com/media/HCHJURqbQAAn5BA?format=jpg&name=small",
   "buttonText": "Join Zetarium",
   "ctaUrl": "./testnet/"
-}
+},
+{
+  "id": 2,
+  "notification": false,
+  "image": true,
+  "button": true,
+  "title": "Zetarium Listed on CoinGecko",
+  "message": "Zetarium is now officially listed on CoinGecko! <br>The community is growing fast and this is the perfect time to join. Participate in tasks, earn points, and secure your position early before the campaign progresses further.",
+  "media": "https://pbs.twimg.com/media/HCHJURqbQAAn5BA?format=jpg&name=small",
+  "buttonText": "Join Zetarium",
+  "ctaUrl": "./testnet/"
+},
