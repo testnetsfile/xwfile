@@ -2,6 +2,13 @@
          {
         "hot": "yes",
         "verified": "yes",
+        "name": "Canton",
+        "image": "https://pbs.twimg.com/media/HGwv-6mbUAAxwV1?format=jpg&name=small",
+        "link": "https://canton.edel.finance/"
+    },
+         {
+        "hot": "yes",
+        "verified": "yes",
         "name": "Noise",
         "image": "https://pbs.twimg.com/card_img/2032254328216727552/TyjT8iyn?format=png&name=small",
         "link": "https://www.noise.xyz/?ref=FHQ59SMB"
