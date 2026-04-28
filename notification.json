@@ -1,10 +1,10 @@
 {
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
-  "title": "Zetarium Listed on CoinGecko",
-  "message": "Zetarium is now officially listed on CoinGecko! <br>The community is growing fast and this is the perfect time to join. Participate in tasks, earn points, and secure your position early before the campaign progresses further.",
-  "media": "https://pbs.twimg.com/media/HCHJURqbQAAn5BA?format=jpg&name=small",
-  "buttonText": "Join Zetarium",
-  "ctaUrl": "./testnet/"
+  "title": "Download Our Android App",
+  "message": "Download and install xWallet App for better performance and fast updates!<br><br>Get smooth experience and all latest updates instantly by installing the app now.",
+  "media": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Android_Developer_Job_Description.jpg",
+  "buttonText": "📲 Download Now",
+  "ctaUrl": "https://download.xwalup.workers.dev"
 }
