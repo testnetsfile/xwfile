@@ -2,6 +2,13 @@
          {
         "hot": "yes",
         "verified": "yes",
+        "name": "Netrun",
+        "image": "https://pbs.twimg.com/media/HG7opkfbsAAWLGC?format=jpg&name=small",
+        "link": "https://join.netrun.xyz"
+    },
+         {
+        "hot": "yes",
+        "verified": "yes",
         "name": "Canton",
         "image": "https://pbs.twimg.com/media/HGwv-6mbUAAxwV1?format=jpg&name=small",
         "link": "https://canton.edel.finance/"
