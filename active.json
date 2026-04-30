@@ -1,4 +1,11 @@
 [ 
+   {
+        "hot": "yes",
+        "verified": "yes",
+        "name": "HertzFlow ",
+        "image": "https://pbs.twimg.com/profile_banners/1949735376517840896/1775717680/600x200",
+        "link": "https://testnet.hertzflow.xyz/ref/VERIFY"
+    },
     {
         "hot": "yes",
         "verified": "yes",
