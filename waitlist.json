@@ -2,6 +2,13 @@
          {
         "hot": "yes",
         "verified": "yes",
+        "name": "JTX Trade",
+        "image": "https://pbs.twimg.com/media/HHhd9nxWUAALp8m?format=jpg&name=small",
+        "link": "https://jtx.trade/?ref=grant"
+    },
+         {
+        "hot": "yes",
+        "verified": "yes",
         "name": "Netrun",
         "image": "https://pbs.twimg.com/media/HG7opkfbsAAWLGC?format=jpg&name=small",
         "link": "https://join.netrun.xyz"
